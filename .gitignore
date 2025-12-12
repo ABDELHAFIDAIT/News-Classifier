@@ -1,3 +1,4 @@
 data/embedded/
 metadatas/
 chroma_db/
+__pycache__/
